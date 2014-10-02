@@ -370,6 +370,14 @@ Långt ifrån komplett! [Lägg gärna till](https://github.com/rails-se/rails-se
   <li>
     <a href="http://www.valtech.se">Valtech</a>
   </li>
+  
+  <li>
+    <a href="http://www.slagkryssaren.com">Slagkryssaren</a>
+    <ul>
+      <li>Björn Dahlgren</li>
+      <li>Idar Österlind</li>
+    </ul>
+  </li>
 
 </ul>
 
